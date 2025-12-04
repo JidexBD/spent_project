@@ -62,7 +62,10 @@ class HeroWidget extends StatelessWidget {
                     ),
                   ),
 
-                  child: Text('Join Our Programs'),
+                  child: Text(
+                    'Join Our Programs',
+                    style: TextStyle(color: Colors.amber[900]),
+                  ),
                 ),
               ],
             ),
