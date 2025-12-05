@@ -13,7 +13,7 @@ class HomeSection3 extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'Research focus',
+                'Innovation Lab',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
               TextButton(onPressed: () {}, child: Text('view all')),
